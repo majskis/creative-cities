@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: #90EE90;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    height: calc(100vh - 90px);
+}
+
+#map {
+    flex: 3;
+    background-color: #ddd;
+}
+
+#info {
+    flex: 1;
+    padding: 20px;
+    background-color: #f1f1f1
+}
+
+#info img{
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+.reset-button {
+
+    background-color: white;
+
+    border: 2px solid #c5c4c4;
+
+    padding: 8px 12px;
+
+    font-size: 14px;
+
+    cursor: pointer;
+
+}
