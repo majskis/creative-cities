@@ -61,7 +61,7 @@ const places=[
     <p> This viewpoint gave me perspective and formed a new perception of Hong Kong. 
     Places like this move me outside the city and my day to day to instead get a sort of 
     helicopter view.</p>`,
-    img: "images/kowloonpeak.jpg"
+    img: "kowloonpeak.jpg"
 },
 {
     name: "HKJC ICH+ cultural heritage exhibition at Jao TSung-I academy",
