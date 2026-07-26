@@ -131,5 +131,15 @@ const places=[
     to take a boat to get there it isolates you completely from the normal world. Hong Kong has many small islands like this and it's a vital part 
     of the cultural identity for many here.`,
     img: "images/cheungchau.jpg"
+},
+{name: "Clearwater bay first beach",
+    lat: 22.291157762404104,
+    lng: 114.29111363514347,
+    desc: `<p>The nature of the Clearwater bay two beaches create an interesting effect. At the time that I was there lifeguard services had been suspended on
+    one of the beaches, but kept up at the other. This meant that the beach I was at had significantly fewer people and significantly less noise than the other.
+    This created an effect of being outside looking in at the other beach with more people and movement, which was a kind of surreal feeling. </p>
+    <p>The people on the beach were mostly locals, out to enjoy a nice day in the sun. Being able to go out to the ocean like this becomes another part of the 
+    big nature and adventure part of Hong Kong's cultural heritage. It's people are used to being able to enjoy nature during nice days, and do so with enthusiasm.</p>`,
+    img: "images/clearwaterbay.jpg"
 }
 ];
