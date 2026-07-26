@@ -15,7 +15,7 @@ const places=[
     lng: 114.2049384719436,
     desc: `Nan Lian Garden is connected to the Chi Lin Nunnery, this space isn't
     as clearly walled in like the nunnery but instead relies on greenery and nature to provide a barrier towards 
-    the city. Within the garden there was also a free temporary exhibition on traditional chinese emroidery. 
+    the city. Within the garden there was also a free temporary exhibition on traditional chinese embroidery. 
     Giving another cultural value to the space by highlighting heritage and showcasing it for free to the public.`,
     img: "images/nanlian.jpg", 
 },
@@ -74,7 +74,7 @@ const places=[
     img: "images/ich+.jpg"
 },
 {
-    name: "Causeway Bay Typhoon Shelter",
+    name: "Causeway Bay typhoon shelter",
     lat: 22.2840861,
     lng: 114.1862613,
     desc: `This was a spot I stumbled upon completely by chance looking for a good view of the sunset. 
@@ -111,7 +111,7 @@ const places=[
     desc: `Across Hong Kong there are multiple longer trails that take you through various landscapes 
     over a longer route. This is section one of one of those trails. The establishing of these official longer trails 
     makes Hong Kong stand out in the way of hiking and nature utilization. The Wilson trail becomes part of Hong Kong's
-    cultural heritage in a very finite way.`,
+    cultural heritage in a very definitive way.`,
     img: "images/wilsontrail.jpg"
 },
 {
@@ -119,7 +119,7 @@ const places=[
     lat: 22.24019,
     lng: 114.2412,
     desc: `One of Hong Kong's most iconic hikes offer stunning views over the sea. 
-    The hike is definitely an easier one, making it perfect for just wandering and enjoying the lendscape. 
+    The hike is definitely an easier one, making it perfect for just wandering and enjoying the landscape. 
     Since I was there on a weekday it was relatively empty, with only a few fellow tourists out on the trail.`,
     img: "images/dragonsback.jpg"
 },    
@@ -128,7 +128,8 @@ const places=[
     lat: 22.20160484313965,
     lng: 114.0265121459961,
     desc: `Cheung Chau Island is truly an escape from reality. Requiring you
-    to take a boat to get there it isolates you completely from the normal world.`,
+    to take a boat to get there it isolates you completely from the normal world. Hong Kong has many small islands like this and it's a vital part 
+    of the cultural identity for many here.`,
     img: "images/cheungchau.jpg"
 }
 ];
